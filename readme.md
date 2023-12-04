@@ -2,10 +2,10 @@
 NOVELTIES
 =========
 
-* New Operators: % != \
-* New Builtins: random randint strlen getchar run \
-* New Error System \
-* Jumping Backward Works ( -n => ignores n lines backward and starts running n+1 line ) \
+* New Operators: % != 
+* New Builtins: random randint strlen getchar run 
+* New Error System 
+* Jumping Backward Works ( -n => ignores n lines backward and starts running n+1 line ) 
 * Recursion Works 
 
 DOCUMENTATION
